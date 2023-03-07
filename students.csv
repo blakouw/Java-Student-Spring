@@ -1,0 +1,7 @@
+id;Imie;Nazwisko;Chory;Odrabiajacy;Nieobecny;Urodzony;Punkty
+1;Kamil;Starobrat;true;true;false;2001;21.0
+2;Wojciech;Szczesny;true;true;false;1990;100.0
+3;Robert;Kubica;true;true;false;1986;89.0
+4;Robercik;Lewandowski;true;true;false;1991;9.0
+5;Grzegorz;Bak;true;true;false;2000;9.0
+6;Kacper;Suder;true;true;false;2001;9.0
